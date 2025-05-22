@@ -47,13 +47,13 @@ const calculateBill = ()=>{
     for (p of itemPrices){
         if (p!=null){
             console.log(p.innerText);
-            total += parseFloat(p.innerText.replace('$',''));
+            total += parseFloat(p.innerText.replace('₹',''));
         }
     }
 
     console.log(total);
     if(total!=0 && (!(isNaN(total)))){
-        document.getElementById("bill").innerText = "$" + total.toFixed(2)
+        document.getElementById("bill").innerText = "₹" + total.toFixed(2)
     }
     
 }
