@@ -10,13 +10,13 @@ Welcome to **Foodie**, your go-to web platform designed for university and colle
 
  ✨ Features
 
- ✅ **Online Ordering** – Browse the menu, select your favorite meals, and place your order in a few clicks.
- 🏃‍♂️ **Quick Pickups** – No waiting! Grab your food on the go.
- 🍴 **Table Booking** – Reserve tables for group meals or solo dining with ease.
- 📋 **Interactive Menu** – Dynamic food menu with images, prices, and delicious details.
- 📲 **Mobile App Info** – Access the mobile version and find app-related resources.
- 💬 **Contact Page** – For queries, suggestions, and support.
- 🖥️ **Fully Responsive** – Works seamlessly on mobiles, tablets, and desktops.
+-- ✅ **Online Ordering** – Browse the menu, select your favorite meals, and place your order in a few clicks.
+-- 🏃‍♂️ **Quick Pickups** – No waiting! Grab your food on the go.
+-- 🍴 **Table Booking** – Reserve tables for group meals or solo dining with ease.
+-- 📋 **Interactive Menu** – Dynamic food menu with images, prices, and delicious details.
+-- 📲 **Mobile App Info** – Access the mobile version and find app-related resources.
+-- 💬 **Contact Page** – For queries, suggestions, and support.
+-- 🖥️ **Fully Responsive** – Works seamlessly on mobiles, tablets, and desktops.
 
 ---
 
