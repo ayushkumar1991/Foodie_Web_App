@@ -1,100 +1,90 @@
-🍽️ Foodie – Your Campus Food Ordering Companion
-🚀 A sleek and intuitive web application that lets students order food, reserve tables, and enjoy quick pickups — all within their campus!
+ ## 🍽️ Foodie – Your Campus Food Ordering Companion 🚀
 
-Welcome to Foodie, a smart food ordering platform tailored for university and college students. Whether you're in a rush between classes or planning a chill dinner with friends at the canteen, Foodie simplifies it all — ordering, pickup, and table booking.
+A sleek and intuitive web application that lets students **order food, reserve tables, and enjoy quick pickups** — all within their campus!
 
-🔗 Live Demo: [https://ayushkumar1991.github.io/Foodie_Web_App/Html-files/cart.html] 
+Welcome to **Foodie**, your go-to web platform designed for university and college students. Whether you're in a rush between lectures or planning a relaxed meal with friends, **Foodie** makes it simple — ordering, pickup, and table booking, all in one place.
 
-✨ Features at a Glance
-✅ Order Online – Browse the menu, order your favorite dishes, and skip the lines.
+🔗 Live Demo: [Click here to try Foodie!](https://ayushkumar1991.github.io/Foodie_Web_App/)
 
-🔁 Quick Pickups – Perfect for students on the go! Order in advance and grab your meal.
+---
 
-🍽️ Table Booking – Plan ahead by reserving tables for group meals or solo dining.
+ ✨ Features
 
-📜 Interactive Menu – Explore a dynamic canteen menu with images, prices, and tasty descriptions.
+ ✅ **Online Ordering** – Browse the menu, select your favorite meals, and place your order in a few clicks.
+ 🏃‍♂️ **Quick Pickups** – No waiting! Grab your food on the go.
+ 🍴 **Table Booking** – Reserve tables for group meals or solo dining with ease.
+ 📋 **Interactive Menu** – Dynamic food menu with images, prices, and delicious details.
+ 📲 **Mobile App Info** – Access the mobile version and find app-related resources.
+ 💬 **Contact Page** – For queries, suggestions, and support.
+ 🖥️ **Fully Responsive** – Works seamlessly on mobiles, tablets, and desktops.
 
-📱 Mobile App Info – Find links and details to access the app on the go.
+---
 
-📬 Contact Page – Get in touch easily for help, suggestions, or feedback.
+## 📸 Screenshots
 
-🖥️ Fully Responsive – Enjoy the same smooth experience on mobile, tablet, or desktop.
+### 🏠 Home Page
+![Home Page](./screenshots/ps2.png)
+![Home Page](./screenshots/ps3.png)
 
-🛠️ Tech Stack
+### 🍽️ Menu Page
+![Menu Page](./screenshots/ps8.png)
 
-HTML5 – Clean and semantic structure.
+### 🏠 Cart Page
+![Cart Page](./screenshots/ps6.png)
+![Cart Page](./screenshots/ps7.png)
 
-CSS3 – Responsive and modern styling.
+## ⚙️ Tech Stack
 
-JavaScript – Adds interactivity and dynamic features.
+| Tech            | Usage                                  |
+|-----------------|----------------------------------------|
+| HTML5           | Semantic structure                     |
+| CSS3            | Responsive and modern styling          |
+| JavaScript      | Interactive behavior                   |
+| Bootstrap 5     | UI components and layout               |
+| AOS.js          | Animate on Scroll effects              |
+| Google Fonts    | Beautiful typography                   |
+| Font Awesome    | Crisp and clean icons                  |
+| GitHub Pages    | Live deployment platform               |
 
-Bootstrap 5 – Speeds up development with pre-built components.
+---
 
-AOS (Animate on Scroll) – Smooth scroll animations that wow users.
+## 🚀 Getting Started
 
-Google Fonts & Font Awesome – Elegant typography and crisp icons.
+### Prerequisites
 
+- [Git](https://git-scm.com/) installed on your machine
+- A modern web browser (Chrome, Firefox, etc.)
 
-Deployment
-GitHub Pages – Fast, free hosting for frontend.
+### Steps to Run Locally
 
-⚙️ Getting Started
-Prerequisites
-Git installed
-
-A modern browser (Chrome, Firefox, Edge, etc.)
-
-Installation
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/ayushkumar1991/Foodie_Web_App.git
 cd Foodie_Web_App
-Then open index.html in your browser to run the app locally.
-
-💡 Planned Improvements
-🔐 Login & User Accounts (JWT Auth)
-
-📦 Order Tracking
-
-📈 Canteen Analytics Dashboard
-
-📲 React Native App for Android/iOS
+---
 
 🤝 Contributing
-We ❤️ contributions from students, devs, and open-source enthusiasts! Whether it's fixing bugs, adding features, or improving UI — your help matters.
+Contributions are welcome and appreciated! 💖
+If you'd like to improve this project:
 
-How to Contribute
 Fork the repo
 
-Create your branch
-
-bash
-Copy
-Edit
+Create a feature branch:
 git checkout -b feature/AmazingFeature
-Commit your changes
 
-bash
-Copy
-Edit
+Commit changes:
 git commit -m "Add AmazingFeature"
-Push to GitHub
 
-bash
-Copy
-Edit
+Push to your forked repo:
 git push origin feature/AmazingFeature
-Open a Pull Request 📬
 
-Consider checking out our CONTRIBUTING.md file for contribution guidelines and coding standards.
+Open a Pull Request 🚀
 
 📄 License
-This project is licensed under the MIT License – feel free to use, modify, and share.
+This project is licensed under the MIT License.
+Feel free to use it, modify it, and share it freely.
 
 📬 Contact
-Ayush Kumar
-🔗 Github [https://github.com/ayushkumar1991/]
-🌐 Project Repository [https://github.com/ayushkumar1991/Foodie_Web_App]
+Made with ❤️ by Ayush Kumar
+🔗 https://github.com/ayushkumar1991
 
-🍔 Foodie – Because campus food should be quick, tasty, and hassle-free!
+🧠 “Great food is one tap away — only with Foodie!”
