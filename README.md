@@ -58,9 +58,11 @@ Welcome to **Foodie**, your go-to web platform designed for university and colle
 ### Steps to Run Locally
 
 ```bash
+
 git clone https://github.com/ayushkumar1991/Foodie_Web_App.git
 cd Foodie_Web_App
----
+
+
 
 🤝 Contributing
 Contributions are welcome and appreciated! 💖
